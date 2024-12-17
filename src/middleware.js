@@ -1,3 +1,4 @@
+
 /**
  * Portfolio
  * Copyright (C) 2024 Maxim (https://github.com/max1mde/portfolio)
@@ -7,7 +8,7 @@
  * by the Free Software Foundation.
  */
 import { NextResponse } from "next/server";
-import configuration from "/CONFIG.json";
+import configuration from '/CONFIG.json';
 
 export function middleware(req) {
   const { pathname } = req.nextUrl;

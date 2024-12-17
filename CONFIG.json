@@ -1,7 +1,7 @@
 {
    "siteMetadata":{
-      "title":"Portfolio - Maxim",
-      "description":"Portfolio page by max1mde"
+      "title":"Portfolio - BlackDev",
+      "description":"Portfolio page of BlackDev"
    },
    "global":{
       "font":"roboto",
@@ -14,11 +14,11 @@
       }
    },
    "footer":{
-      "text":"© 2024 Maxim - All rights reserved.",
+      "text":"© 2024 BlackDev - All rights reserved.",
       "links":[
          {
             "label":"GitHub",
-            "url":"https://github.com/max1mde/portfolio"
+            "url":"https://github.com/BlackDevReal/"
          },
          {
             "label":"Contact",
@@ -33,25 +33,25 @@
    "pages":{
       "home":{
          "enabled":true,
-         "header":"Hello, my name is Maxim!",
+         "header":"Hello, my name is BlackDev!",
          "route":"/home",
-         "profile_image":"https://avatars.githubusercontent.com/u/114857048?v=4",
+         "profile_image":"https://avatars.githubusercontent.com/u/176715717?v=4",
          "about_me":"About Me",
-         "description":"I like to bring random ideas to reality",
+         "description":"Java>Kotlin",
          "tools_languages_title":"Tools & Languages",
          "languages":[
             "Java",
             "JavaScript",
-            "TypeScript",
+            "HTML",
+            "CSS",
             "Python"
          ],
          "tools":[
             "Next.js",
-            "MongoDB",
+            "PyCharm",
             "Intellij",
             "MariaDB",
-            "Pycharm",
-            "FIX",
+            "VS Code",
             "Git"
          ],
          "action_buttons":[
@@ -62,7 +62,7 @@
             },
             {
                "label":"View on Github",
-               "route":"https://github.com/max1mde/portfolio",
+               "route":"https://github.com/blackDevReal",
                "style":"secondary"
             }
          ],
@@ -71,24 +71,24 @@
             "title":"My Experience",
             "list":[
                {
-                  "title":"Software Developer",
-                  "company":"India Solutions",
-                  "date":"2023 - Present",
-                  "description":"Developing highly effective phishing tools and creating innovative callcenter software solutions using cutting-edge technologies to improve the customer experience.",
+                  "title":"Client Developer",
+                  "company":"Flux Client",
+                  "date":"2024 - Present",
+                  "description":"Developing a Minecraft Client using Fabric because there is no good i want to use.",
                   "side":"left"
                },
                {
-                  "title":"Planetary Mineralogy Specialist",
-                  "company":"NASA",
-                  "date":"2022 - 2023",
-                  "description":"Led the inspection, analysis, and cataloging of unique mineral deposits found on Mars, including the discovery of the Jerome T. K. mineral.",
+                  "title":"Minecraft Content Developer",
+                  "company":"Personal",
+                  "date":"2021 - start 2024",
+                  "description":"I Programmed Minecraft mods and Plugins for fun.",
                   "side":"right"
                },
                {
-                  "title":"Certified Pandemic Survivor",
-                  "company":"Self-employed",
+                  "title":"Supporter on MaximClient",
+                  "company":"MaximClient",
                   "date":"2020 - 2022",
-                  "description":"Managed Zoom meetings while playing Bedwars and Among Us, effectively balancing work and gaming.",
+                  "description":"I was Supporter on the Server/Client MaximClient where i got in to Programming and the Development of Programms and Software.",
                   "side":"left"
                }
             ]
@@ -103,31 +103,31 @@
          "enabled":true,
          "header":"Socials",
          "route":"/contact",
-         "email":"maxim@nextfight.net",
+         "email":"dev@BlackDev.xyz",
          "direct_contact":"Reach Me Directly",
          "legal":{
             "enabled":true,
-            "name":"Maxim",
-            "address":"Vaitape - Bora Bora",
-            "email":"maxim@nextfight.net",
-            "phone":"911",
+            "name":"BlackDev",
+            "address":"Schlesig-Holstein - Germany",
+            "email":"dev@BlackDev.xyz",
+            "phone":"Not Applicable",
             "tax_id":"Not Applicable",
             "legal_disclaimer":"This is a personal portfolio website for informational purposes."
          },
          "social_links":[
             {
                "name":"GitHub",
-               "url":"https://github.com/max1mde",
+               "url":"https://github.com/BlackDevReal",
                "icon":"github"
             },
             {
                "name":"TikTok",
-               "url":"https://tiktok.com/@maximde",
+               "url":"https://tiktok.com/@BlackDevReal",
                "icon":"tiktok"
             },
             {
                "name":"YouTube",
-               "url":"https://www.youtube.com/@max1mde",
+               "url":"https://www.youtube.com/@BlackDevReal",
                "icon":"youtube"
             }
          ],
@@ -165,7 +165,7 @@
          "route":"/privacy",
          "content":{
             "contact_title":"Contact",
-            "contact":"maxim@netfight.net",
+            "contact":"Dev@BlackDev.xyz",
             "introduction":"This portfolio website is designed with minimal data collection and maximum user privacy in mind.",
             "sections":[
                {
@@ -224,83 +224,33 @@
    },
    "cards":[
       {
-         "title":"Portfolio (This website)",
+         "title":"MavenMCP-1.8.9-all-os",
          "description":"Customizable, responsive, portfolio website built with Next.js",
-         "imageSRC":"/images/projects/portfolio.webp",
+         "imageSRC":"https://imgur.com/znUhVE4",
          "buttonText":"View on GitHub",
-         "buttonURL":"https://github.com/max1mde/portfolio",
+         "buttonURL":"https://github.com/BlackDevReal/MavenMCP-1.8.9-all-os",
          "badges":[
-            "https://img.shields.io/github/stars/max1mde/portfolio.svg?style=flat"
+            "https://img.shields.io/github/stars/BlackDevReal/MavenMCP-1.8.9-all-os.svg?style=flat"
          ]
       },
       {
-         "title":"Fancy Physics",
-         "description":"Tree fall animation, hit particles, realistic explosions, 3D particles & more",
-         "imageSRC":"/images/projects/fancyphysics.webp",
-         "buttonText":"View on SpigotMC",
-         "buttonURL":"https://www.spigotmc.org/resources/110500/",
+         "title":"SplashRemover",
+         "description":"Removes the SplashText from the Minecraft Main Menu",
+         "imageSRC":"https://cdn.modrinth.com/data/cached_images/3322c9c89c4b80a98a2b595b9d9fa5f39ed08cb7.png",
+         "buttonText":"View on Modrinth",
+         "buttonURL":"https://modrinth.com/mod/splash-remover",
          "badges":[
-            "https://img.shields.io/spiget/downloads/110500"
+            "https://img.shields.io/modrinth/dt/TgfJS1Zy.svg?style=flat"
          ]
       },
       {
-         "title":"Better Chat Bubbles",
-         "description":"Packet based chat bubbles above players head, with an extensive API",
-         "imageSRC":"/images/projects/betterchatbubbles.webp",
-         "buttonText":"Buy on SpigotMC",
+         "title":"Chat-Ping",
+         "description":"Pings you if ther is a message with your name send in to the chat.",
+         "imageSRC":"https://cdn.modrinth.com/data/8O7S8bcN/8705d4fa01c9d1082e83ae97d41cd4021f965d9a_96.webp",
+         "buttonText":"View on Modrinth",
          "buttonURL":"https://www.spigotmc.org/resources/115811/",
          "badges":[
-            "https://img.shields.io/spiget/downloads/115811"
-         ]
-      },
-      {
-         "title":"Fancy Readme Stats",
-         "description":"Animated Readme Cards - For your GitHub profile or repository readme",
-         "imageSRC":"/images/projects/readmestats.webp",
-         "buttonText":"View on GitHub",
-         "buttonURL":"https://github.com/max1mde/fancy-readme-stats",
-         "badges":[
-            "https://img.shields.io/github/stars/max1mde/fancy-readme-stats.svg?style=flat"
-         ]
-      },
-      {
-         "title":"HologramAPI",
-         "description":"Packet based text display hologram api with minimessage and emoji support",
-         "imageSRC":"/images/projects/hologramapi.webp",
-         "buttonText":"View on GitHub",
-         "buttonURL":"https://github.com/max1mde/HologramAPI",
-         "badges":[
-            "https://img.shields.io/github/stars/max1mde/HologramAPI.svg?style=flat"
-         ]
-      },
-      {
-         "title":"NextFight",
-         "description":"NextFight is a Minecraft minigame network focused on a Battle Royale like gamemode",
-         "imageSRC":"/images/projects/nextfight.webp",
-         "buttonText":"Join the Discord",
-         "buttonURL":"https://discord.nextfight.net/",
-         "badges":[
-            "https://img.shields.io/discord/1051758423211003951"
-         ]
-      },
-      {
-         "title":"MaximClient",
-         "description":"MaximClient was a 1.8 PVP client with many mods and free online cosmetics",
-         "imageSRC":"/images/projects/maximclient.webp",
-         "buttonText":"Join the Discord",
-         "buttonURL":"https://discord.gg/eCn8VWEGbZ",
-         "badges":[
-            "https://img.shields.io/discord/895012337793249341"
-         ]
-      },
-      {
-         "title":"FIX",
-         "description":"A Windows tool for AI text correction and translation with hotkeys & voice control",
-         "imageSRC":"/images/projects/fix.webp",
-         "buttonText":"View on GitHub",
-         "buttonURL":"https://github.com/max1mde/FIX",
-         "badges":[
-            "https://img.shields.io/github/stars/max1mde/FIX.svg?style=flat"
+            "https://img.shields.io/modrinth/dt/8O7S8bcN.svg?style=flat"
          ]
       }
    ]
